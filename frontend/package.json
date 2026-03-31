@@ -1,0 +1,50 @@
+{
+  "name": "localhub-frontend",
+  "version": "1.0.0",
+  "description": "LocalHub E-commerce Frontend - Dark & Futuristic",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "axios": "^1.4.0",
+    "react-router-dom": "^6.12.0",
+    "tailwindcss": "^3.3.0",
+    "framer-motion": "^10.12.0",
+    "react-icons": "^4.10.0",
+    "zustand": "^4.3.7",
+    "react-hot-toast": "^2.4.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "date-fns": "^2.30.0",
+    "lucide-react": "^0.254.0",
+    "@react-oauth/google": "^0.13.4"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
